@@ -1,2 +1,4 @@
-# Inet3101-lab2
-Code for INET3101-Lab2
+# INET3101 Lab 2
+
+
+## Code for INET3101-Lab2
